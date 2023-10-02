@@ -7,8 +7,8 @@
 <p align="center">
   A little about me... 💻
   
-I am a final year student 🎓 pursuing a **B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning). from [Greater Noida Institute of Technology](https://www.gniotgroup.edu.in/)**. </br>
-I enjoy problem solving , and I am constantly eager to learn new technologies and explore new fields. </br>
+I am a final year student 🎓 pursuing **B.Tech in Computer Science and Engineering(Artificial Intelligence and Machine Learning) from [Greater Noida Institute of Technology](https://www.gniotgroup.edu.in/)**. </br>
+I enjoy problem solving, and I am constantly eager to learn new technologies and explore new fields. </br>
 Machine learning and Deep learning in Natural language processing comprises my area of work in the field of AI. </br>
 C++ is my primary language. Python, JavaScript, HTML, and CSS are among the technologies with which I am familiar  💻😃. </br>
 My good attitude, self-motivation, and diligent personality are my assets.</br>
